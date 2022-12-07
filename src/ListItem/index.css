@@ -1,0 +1,13 @@
+li {
+  display: flex;
+  padding: 10px;
+  color: #ffffff;
+  align-items: center;
+  flex-direction: row;
+  max-width: 20%;
+}
+button {
+  background-color: #5763a5;
+  border-width: 0px;
+  border-style: none;
+}
